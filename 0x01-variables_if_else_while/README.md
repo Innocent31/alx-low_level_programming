@@ -9,3 +9,4 @@ program that prints all single digit numbers of base 10 starting from 0, followe
  3 files changed, 19 insertions(+)
  create mode 100755 0x01-variables_if_else_while/6-print_numberz.c
 program that prints the lowercase alphabet in reverse, followed by a new line.
+program that prints all the numbers of base 16 in lowercase, followed by a new line.
