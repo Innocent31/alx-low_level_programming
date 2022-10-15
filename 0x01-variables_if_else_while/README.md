@@ -5,3 +5,6 @@ program that prints the alphabet in lowercase, and then in uppercase, followed b
 program that prints the alphabet in lowercase, followed by a new line.
 program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+[master 803ceec] numberz
+ 3 files changed, 19 insertions(+)
+ create mode 100755 0x01-variables_if_else_while/6-print_numberz.c
